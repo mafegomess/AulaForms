@@ -12,12 +12,6 @@ namespace TrocaValores
             MessageBox.Show("Bem vindo!!!");
         }
 
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void BtnTroca_Click(object sender, EventArgs e)
         {
             string temp = txtValor1.Text;
